@@ -1,6 +1,6 @@
 ### Hi there, I'm Antonio - aka Tony. 👋
 
-## I'm a QA, and college teacher in Health and Security!
+## QA Automation, and college teacher in Health and Security!
 - 🔭 I’m currently working on get my first job as a QA Automation.
 - 🌱 I’m currently learning JavaScript MERN stack!
 - 👯 I’m looking to collaborate with people and companies who thinks outside the box.
