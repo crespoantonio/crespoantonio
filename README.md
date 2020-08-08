@@ -21,6 +21,7 @@
 <img align="left" alt="Cypress" width="26px" src="https://scontent.fros8-1.fna.fbcdn.net/v/t1.0-9/12670704_938032106312723_5546586727999498212_n.png?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=MpIEZlcIRFYAX-cc-KQ&_nc_ht=scontent.fros8-1.fna&oh=c873ee74f35c43469e1f23ad490cddf6&oe=5F538E6C" />
 <img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev//images/selenium_logo_square_green.png" />
 <img align="left" alt="Katalon" width="26px" src="https://github.com/katalon-studio/docs-images/raw/master/katalon/template/favicon.png" />
+<img align="left" alt="Postman" width="26px" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
