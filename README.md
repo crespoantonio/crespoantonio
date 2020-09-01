@@ -22,7 +22,6 @@
 <img align="left" alt="Mocha" width="26px" src="https://img2.freepng.es/20180427/ivw/kisspng-mocha-node-js-javascript-software-testing-npm-5ae37d55ae0302.6235689115248581977128.jpg" />
 <img align="left" alt="Chai" width="26px" src="https://www.chaijs.com/img/chai-logo-small.png" />
 <img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev//images/selenium_logo_square_green.png" />
-<img align="left" alt="Katalon" width="26px" src="https://github.com/katalon-studio/docs-images/raw/master/katalon/template/favicon.png" />
 <img align="left" alt="Postman" width="26px" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
