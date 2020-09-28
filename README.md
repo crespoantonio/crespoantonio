@@ -1,10 +1,9 @@
 ### Hi there, I'm Antonio - aka Tony. 👋
 
 ## QA Automation, and college teacher in Health and Security!
-- 🔭 I’m currently working on get my first job as a QA Automation.
-- 🌱 I’m currently learning JavaScript MERN stack!
+- 🔭 I’m currently working as a QA Automation.
+- 🌱 I’m currently learning testing frameworks in JavaScript!
 - 👯 I’m looking to collaborate with people and companies who thinks outside the box.
-- 🥅 2020 Goals: Become a QA Full Stack
 - ⚡ Fun fact: I own a podcast on Spotify.
 
 ### Connect with me:
