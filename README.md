@@ -31,8 +31,6 @@
 
 <br>
 <br>
-<img align="left" alt="Tony's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=crespoantonio&show_icons=true&hide_border=true" />
-
 
 [instagram]: https://instagram.com/tonycrespoo
 [linkedin]: https://linkedin.com/in/antonio-crespo89
