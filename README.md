@@ -1,51 +1,22 @@
-### Hi there, I'm Antonio - aka Tony. 👋
+# Antonio (Tony) - QA Professional and DevOps Enthusiast
 
-## QA Automation, and college teacher in Health and Security!
-- 🔭 I’m currently working as a QA Automation.
-- 🌱 I’m currently learning testing frameworks in JavaScript!
-- 👯 I’m looking to collaborate with people and companies who thinks outside the box.
-- ⚡ Fun fact: I own a podcast on Spotify.
+Hello, I'm Antonio, also known as Tony, a self-taught QA professional with over 3 years of experience in manual and automation testing.
 
-### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Professional Experience
 
-<br />
+Throughout my journey, I've achieved some notable accomplishments:
 
-### Languages and Tools:
+* Developed a comprehensive test plan from scratch to ensure system functionality during a migration process from AWS to Azure.
 
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Cypress" width="26px" src="https://avatars0.githubusercontent.com/u/8908513?s=200&v=4" />
-<img align="left" alt="Mocha" width="26px" src="https://img2.freepng.es/20180427/ivw/kisspng-mocha-node-js-javascript-software-testing-npm-5ae37d55ae0302.6235689115248581977128.jpg" />
-<img align="left" alt="Chai" width="26px" src="https://www.chaijs.com/img/chai-logo-small.png" />
-<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev//images/selenium_logo_square_green.png" />
-<img align="left" alt="Postman" width="26px" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://i1.sndcdn.com/avatars-000304241410-8vma0p-t500x500.jpg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+* Initiated and implemented an automation project using Cypress, contributing to improved efficiency in our testing processes.
 
-<br>
-<br>
+* Acted as a mentor, guiding manual QA professionals through their transition into automation and helping them take their initial steps in this dynamic field.
 
-[instagram]: https://instagram.com/tonycrespoo
-[linkedin]: https://linkedin.com/in/antonio-crespo89
+* Implemented an alert system integrated with Slack, providing timely notifications for any increase in errors or undesired functionality in the production environment.
 
+## DevOps Exploration
 
+Beyond my QA expertise, I'm delving into the realm of DevOps. I'm passionate about learning and adopting DevOps practices to broaden my skill set and facilitate seamless collaboration between development and operations teams.
 
+Feel free to connect with me if you share similar interests or have exciting opportunities for collaboration!
 
-
-
-
-
-<!--
-**crespoantonio/crespoantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
