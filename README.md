@@ -1,6 +1,6 @@
 # Antonio (Tony) - QA Professional and DevOps Enthusiast
 
-Hello, I'm Antonio, also known as Tony, a self-taught QA professional with over 3 years of experience in manual and automation testing.
+Hello, I'm Antonio, also known as Tony, a self-taught QA professional with over 4 years of experience in manual and automation testing.
 
 ## Professional Experience
 
