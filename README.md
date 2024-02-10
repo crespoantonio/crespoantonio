@@ -20,3 +20,8 @@ Beyond my QA expertise, I'm delving into the realm of DevOps. I'm passionate abo
 
 Feel free to connect with me if you share similar interests or have exciting opportunities for collaboration!
 
+
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crespoantonio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Butch's GitHub stats](https://github-readme-stats.vercel.app/api?username=crespoantonio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
